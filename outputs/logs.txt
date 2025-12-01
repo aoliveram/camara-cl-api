@@ -1,0 +1,71 @@
+2025-12-01 13:47:20,050 - INFO - Starting Script 1: Fetch Votaciones Metadata
+2025-12-01 13:47:20,112 - INFO - Found 3393 vote IDs to process.
+2025-12-01 13:47:21,496 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:21,497 - WARNING - Could not fetch details for vote_id 38030
+2025-12-01 13:47:22,072 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:22,073 - WARNING - Could not fetch details for vote_id 32713
+2025-12-01 13:47:22,639 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:22,639 - WARNING - Could not fetch details for vote_id 32712
+2025-12-01 13:47:23,220 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:23,221 - WARNING - Could not fetch details for vote_id 32711
+2025-12-01 13:47:23,805 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:23,805 - WARNING - Could not fetch details for vote_id 32710
+2025-12-01 13:47:24,469 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:24,469 - WARNING - Could not fetch details for vote_id 32709
+2025-12-01 13:47:25,043 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:25,043 - WARNING - Could not fetch details for vote_id 32708
+2025-12-01 13:47:25,620 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:25,620 - WARNING - Could not fetch details for vote_id 32707
+2025-12-01 13:47:26,196 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:26,196 - WARNING - Could not fetch details for vote_id 32706
+2025-12-01 13:47:26,770 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:26,770 - WARNING - Could not fetch details for vote_id 32705
+2025-12-01 13:47:27,335 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:27,335 - WARNING - Could not fetch details for vote_id 32704
+2025-12-01 13:47:27,912 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:27,913 - WARNING - Could not fetch details for vote_id 32703
+2025-12-01 13:47:28,495 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:28,495 - WARNING - Could not fetch details for vote_id 32702
+2025-12-01 13:47:29,073 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:29,073 - WARNING - Could not fetch details for vote_id 32701
+2025-12-01 13:47:29,653 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:29,653 - WARNING - Could not fetch details for vote_id 32700
+2025-12-01 13:47:30,234 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:30,235 - WARNING - Could not fetch details for vote_id 32699
+2025-12-01 13:47:30,805 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:30,805 - WARNING - Could not fetch details for vote_id 32698
+2025-12-01 13:47:31,376 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:31,376 - WARNING - Could not fetch details for vote_id 32697
+2025-12-01 13:47:31,944 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:31,944 - WARNING - Could not fetch details for vote_id 32696
+2025-12-01 13:47:32,522 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:32,522 - WARNING - Could not fetch details for vote_id 32695
+2025-12-01 13:47:33,099 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:33,099 - WARNING - Could not fetch details for vote_id 32694
+2025-12-01 13:47:33,679 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:33,680 - WARNING - Could not fetch details for vote_id 81851
+2025-12-01 13:47:34,256 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:34,256 - WARNING - Could not fetch details for vote_id 52755
+2025-12-01 13:47:34,829 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:34,829 - WARNING - Could not fetch details for vote_id 52754
+2025-12-01 13:47:35,400 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:35,400 - WARNING - Could not fetch details for vote_id 52753
+2025-12-01 13:47:35,974 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:35,974 - WARNING - Could not fetch details for vote_id 52752
+2025-12-01 13:47:36,551 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:36,551 - WARNING - Could not fetch details for vote_id 52751
+2025-12-01 13:47:37,122 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:37,122 - WARNING - Could not fetch details for vote_id 52750
+2025-12-01 13:47:37,696 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:37,696 - WARNING - Could not fetch details for vote_id 20611
+2025-12-01 13:47:38,272 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:38,272 - WARNING - Could not fetch details for vote_id 35768
+2025-12-01 13:47:38,840 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:38,840 - WARNING - Could not fetch details for vote_id 22248
+2025-12-01 13:47:39,429 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:39,430 - WARNING - Could not fetch details for vote_id 22247
+2025-12-01 13:47:40,010 - ERROR - XML parsing error: Entity 'nbsp' not defined, line 44, column 55 (<string>, line 44)
+2025-12-01 13:47:40,010 - WARNING - Could not fetch details for vote_id 22246
+2025-12-01 13:53:19,606 - INFO - Starting Script 1: Fetch Votaciones Metadata
+2025-12-01 13:53:19,656 - INFO - Found 3393 vote IDs to process.
+2025-12-01 14:27:13,376 - INFO - Saved metadata to outputs/votaciones_meta_2022_26.csv
