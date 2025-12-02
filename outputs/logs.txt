@@ -69,3 +69,6 @@
 2025-12-01 13:53:19,606 - INFO - Starting Script 1: Fetch Votaciones Metadata
 2025-12-01 13:53:19,656 - INFO - Found 3393 vote IDs to process.
 2025-12-01 14:27:13,376 - INFO - Saved metadata to outputs/votaciones_meta_2022_26.csv
+2025-12-01 14:32:04,850 - INFO - Starting Script 1: Fetch Votaciones Metadata
+2025-12-01 14:32:04,907 - INFO - Found 3393 vote IDs to process.
+2025-12-01 15:12:37,324 - INFO - Saved metadata to outputs/votaciones_meta_2022_26.csv
